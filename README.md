@@ -5,7 +5,7 @@
   * [Specification](#specification)
   * [Usage](#usage)
     * [Using the order_book_runner.py wrapper](#1-using-the-order_book_runnerpy-wrapper)
-    * [Installation sets up order_book command](2-installation-sets-up-order_book-command)
+    * [Installation sets up order_book command](#2-installation-sets-up-order_book-command)
   * [Tests](#tests)
     * [unittest](#unittest)
     * [mypy](#mypy)
